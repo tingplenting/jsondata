@@ -1,0 +1,75 @@
+{
+    "Categories": [
+        {
+            "name": "Chess"
+        },
+        {
+            "name": "Game Console"
+        }
+    ],
+    "Wallpapers": [
+        {
+            "author": "Yuri",
+            "category": "chess",
+            "name": "wallpaper_04d",
+            "thumbUrl": "https://i.pinimg.com/564x/70/91/52/7091528f2c71569d1adad76bbfcd704d.jpg",
+            "url": "https://i.pinimg.com/originals/70/91/52/7091528f2c71569d1adad76bbfcd704d.jpg"
+        },
+        {
+            "author": "Rully",
+            "category": "game console",
+            "name": "wallpaper_0b6",
+            "thumbUrl": "https://i.pinimg.com/564x/0b/6f/4f/0b6f4f8ca5b532134030fe5490d74134.jpg",
+            "url": "https://i.pinimg.com/originals/0b/6f/4f/0b6f4f8ca5b532134030fe5490d74134.jpg"
+        },
+        {
+            "author": "Yuri",
+            "category": "chess",
+            "name": "wallpaper_a86",
+            "thumbUrl": "https://i.pinimg.com/564x/e0/2d/a5/e02da53ae86e196b11f2a2a51c2df741.jpg",
+            "url": "https://i.pinimg.com/originals/90/67/6f/90676fbb5460c0ce2eb4986e9bc59ffa.jpg"
+        },
+        {
+            "author": "Yuri",
+            "category": "chess",
+            "name": "wallpaper_b76",
+            "thumbUrl": "https://i.pinimg.com/564x/e0/2d/a5/e02da53ae86e196b11f2a2a51c2df741.jpg",
+            "url": "https://i.pinimg.com/originals/e0/2d/a5/e02da53ae86e196b11f2a2a51c2df741.jpg"
+        },
+        {
+            "author": "Yuri",
+            "category": "chess",
+            "name": "wallpaper_b76",
+            "thumbUrl": "https://i.pinimg.com/564x/dd/33/fb/dd33fbc48abb44435719771a41ad22f9.jpg",
+            "url": "https://i.pinimg.com/originals/dd/33/fb/dd33fbc48abb44435719771a41ad22f9.jpg"
+        },
+        {
+            "author": "Yuri",
+            "category": "chess",
+            "name": "wallpaper_b76",
+            "thumbUrl": "https://i.pinimg.com/564x/d7/d4/86/d7d4869efe610a94b78d0a3f8ec00ac6.jpg",
+            "url": "https://i.pinimg.com/564x/d7/d4/86/d7d4869efe610a94b78d0a3f8ec00ac6.jpg"
+        },
+        {
+            "author": "Rully",
+            "category": "game console",
+            "name": "wallpaper_0b6",
+            "thumbUrl": "https://i.pinimg.com/564x/94/7e/4e/947e4e74aa529c5b5c8ac78c8036cfeb.jpg",
+            "url": "https://i.pinimg.com/originals/94/7e/4e/947e4e74aa529c5b5c8ac78c8036cfeb.jpg"
+        },
+        {
+            "author": "Rully",
+            "category": "game console",
+            "name": "wallpaper_xb6",
+            "thumbUrl": "https://i.pinimg.com/564x/fe/cb/16/fecb16d8fb6a93b5afb654bfa38fcbba.jpg",
+            "url": "https://i.pinimg.com/originals/fe/cb/16/fecb16d8fb6a93b5afb654bfa38fcbba.jpg"
+        },
+        {
+            "author": "Rully",
+            "category": "game console",
+            "name": "wallpaper_pob6",
+            "thumbUrl": "https://i.pinimg.com/564x/25/07/8a/25078acaeec5427ce18a1634aee1df8f.jpg",
+            "url": "https://i.pinimg.com/originals/25/07/8a/25078acaeec5427ce18a1634aee1df8f.jpg"
+        }
+    ]
+}
